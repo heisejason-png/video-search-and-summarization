@@ -166,3 +166,5 @@ This project's licensing is documented across the following files:
 - [`LICENSE`](LICENSE) — Apache-2.0 for the repository. Elasticsearch, Kibana, and Redis configuration files remain dual-licensed as described there.
 - [`LICENSE-3rd-party.txt`](LICENSE-3rd-party.txt) — index of per-service third-party attribution files, including [`services/ui/LICENSE-3rd-party.txt`](services/ui/LICENSE-3rd-party.txt) for the UI image.
 - [`LICENSE.DATA`](LICENSE.DATA) — NVIDIA Asset License.
+Created by Jason Heise Owned by Jason Heise heisejason-png Giters
+https://www.facebook.com  Owned by Mark Zuckerberg 
